@@ -1,8 +1,5 @@
 ### Olá seja bem vindo ao meu perfil!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?)](https://www.linkedin.com/in/antoniocgomes/)
-
-![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=ac-gomes&show_icons=true&theme=dracula)
 
 ## Tecnologias que mais curto!
 
